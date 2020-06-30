@@ -1,8 +1,8 @@
 [submodule "start/vim-crystal"]
-	path = start/vim-crystal
-	url = https://github.com/vim-crystal/vim-crystal.git
+    path = start/vim-crystal
+    url = https://github.com/vim-crystal/vim-crystal.git
     update = merge
 [submodule "opt/gruvbox"]
-	path = opt/gruvbox
-	url = https://github.com/morhetz/gruvbox.git
+    path = opt/gruvbox
+    url = https://github.com/morhetz/gruvbox.git
     update = merge
