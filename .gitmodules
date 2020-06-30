@@ -1,0 +1,3 @@
+[submodule "start/vim-crystal"]
+	path = start/vim-crystal
+	url = https://github.com/vim-crystal/vim-crystal.git
