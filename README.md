@@ -26,8 +26,7 @@ Or if you've cloned it without submodules:
 
 ```sh
 cd synchronized-vim-plugins
-git submodule init
-git submodule update
+git submodule update --init
 ```
 
 **To use these files**, make a symlink to this repository's top-level
