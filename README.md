@@ -1,7 +1,7 @@
 # synchronized-vim-plugins - Vim 8+ (packadd) plugins I use on multiple systems
 
-This repository is mainly a collection of submodules, each of which has its own
-authorship and copyright information.
+This repository is mainly a collection of submodules written by others, each of
+which has its own authorship and copyright information.
 
 The small amount of data in this repository other than submodules, such as this
 README file, is written by Eliah Kagan. This repository was first published in
