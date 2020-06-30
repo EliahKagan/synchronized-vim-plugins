@@ -29,6 +29,13 @@ cd synchronized-vim-plugins
 git submodule update --init
 ```
 
+Later, to update the contents of submodules and add any new submodules, run:
+
+```sh
+git pull
+git submodule update --init
+```
+
 **To use these files**, make a symlink to this repository's top-level
 directory, `synchronized-vim-plugins` inside `~/.vim/pack`. For example, from
 inside this directory, you could run:
